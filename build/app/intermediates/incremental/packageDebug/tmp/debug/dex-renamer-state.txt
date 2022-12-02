@@ -1,0 +1,4 @@
+#Sun May 15 08:59:45 IST 2022
+base.0=C\:\\Users\\swast\\StudioProjects\\bmi_calculator_flutter_skp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
